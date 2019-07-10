@@ -17,8 +17,6 @@
   },
   "homepage": "https://github.com/millerick/example_package_1#readme",
   "dependencies": {
-    "async": "2.6.2",
-    "aws-sdk": "2.437.0",
-    "blend-promise-utils": "1.21.0"
+    "async": "2.6.2"
   }
 }
