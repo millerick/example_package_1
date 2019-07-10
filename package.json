@@ -17,23 +17,8 @@
   },
   "homepage": "https://github.com/millerick/example_package_1#readme",
   "dependencies": {
-    "airbrake-js": "1.6.7",
     "async": "2.6.2",
     "aws-sdk": "2.437.0",
-    "blend-promise-utils": "1.21.0",
-    "cross-fetch": "3.0.2",
-    "moment": "2.21.0",
-    "moment-timezone": "0.5.14",
-    "mz": "2.7.0",
-    "promise-cb": "0.1.4",
-    "semver": "5.5.0",
-    "stoppable": "1.0.6",
-    "winston": "3.2.1"
-  },
-  "devDependencies": {
-    "joi": "14.3.1",
-    "lodash": "4.17.11",
-    "request": "2.87.0",
-    "request-promise-native": "1.0.5"
+    "blend-promise-utils": "1.21.0"
   }
 }
