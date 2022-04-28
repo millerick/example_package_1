@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/millerick/example_package_1#readme",
   "dependencies": {
-    "async": "2.6.2"
+    "async": "2.6.4"
   }
 }
